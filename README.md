@@ -5,6 +5,11 @@
 The Objective of this Project was to develop a web app where the emergency workers can infer form a help message the possible categories the message belongs to.
 to be able to redirect necessary support "shelter", "Food" etc
 
+
+### Demo
+
+![gif](https://github.com/rishabhCMS/Disaster_Response/blob/main/Peek%202020-10-25%2016-53.gif)
+
 ### Dependencies
 Python 3 and the following Python libraries installed:
 
@@ -32,10 +37,10 @@ Python 3 and the following Python libraries installed:
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3003/
+3. Go to http://0.0.0.0:3003/ with udacity spaceid and domian
 
 ### Results:
-I was able to train the model but deployment had some [issues](https://knowledge.udacity.com/questions/362302)on my browser for displaying the web app
+I was able to train the model and deploy the model
 
 
 ### Data Source:

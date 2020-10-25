@@ -43,7 +43,6 @@ def load_data(database_filepath):
     category_name = y.columns
     return X, y, category_name
 
-url_regex = r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+'
 
 def tokenize(text):
     ''' 

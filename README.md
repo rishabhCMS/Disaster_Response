@@ -1,6 +1,7 @@
+![gif](https://github.com/rishabhCMS/Disaster_Response/blob/main/Peek%202020-10-25%2016-53.gif)
 # Disaster Response Pipeline Project
 
-![gif](https://github.com/rishabhCMS/Disaster_Response/blob/main/Peek%202020-10-25%2016-53.gif)
+
 
 ### Aim:
 The Objective of this Project was to develop a web app where the emergency workers can infer form a help message the possible categories the message belongs to.
